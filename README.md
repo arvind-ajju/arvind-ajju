@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Arvind
+- 👀 I’m interested in web development, and wants to learn A.I engineering as a another hobbie basically I like to code.
+- 🌱 I’m currently learning Next.js, React.js and Tailwind.
